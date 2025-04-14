@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "f08bf7b696489d44",
+    "type": "split",
+    "children": [
+      {
+        "id": "973a163af6f85531",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d531634cce7f39d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "78accb55913bab54",
+    "type": "split",
+    "children": [
+      {
+        "id": "22b1454d4300349a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1543e7bcc0a68bbb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "73a8652e3d7d98cc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "f74da6b420931e5b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f22864196cddd458",
+    "type": "split",
+    "children": [
+      {
+        "id": "5295ed1f79d015e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd7eee9cbf1bfb48",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "马原.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "马原 的反向链接列表"
+            }
+          },
+          {
+            "id": "99204cc3acb23635",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "马原.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "马原 的出链列表"
+            }
+          },
+          {
+            "id": "abfd04f2b84e2959",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "e0410f3868c99929",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "马原.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "马原 的大纲"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "0d531634cce7f39d",
+  "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-04-14 18.23.34.excalidraw.md",
+    "Excalidraw",
+    "马原.md",
+    "五六七，资本主义的发展和趋势.md",
+    "政治一次总结.md",
+    "第三章，唯物史观.md",
+    "习近平新时代中国特色社会主义思想.md",
+    "第四章，政治经济学.md",
+    "劳动价值理论.md",
+    "剩余价值理论.md",
+    "第二章，认识论.md",
+    "马原导论.md",
+    "导论.md",
+    "史纲.md",
+    "第一章，世界的物质性及发展规律.md",
+    "毛中特.md",
+    "思想道德与法治.md",
+    "创建链接.md",
+    "2025-04-11.md",
+    "未命名.canvas"
+  ]
+}

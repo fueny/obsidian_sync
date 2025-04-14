@@ -1,0 +1,9 @@
+{
+  "syncEnabled": true,
+  "api": "",
+  "wsApi": "",
+  "apiToken": "",
+  "lastSyncTime": 0,
+  "vault": "defaultVault",
+  "clipboardReadTip": ""
+}
