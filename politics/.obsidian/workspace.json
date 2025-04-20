@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "4155b78ec624694d",
+        "id": "749e7e9f23e80585",
         "type": "tabs",
         "children": [
           {
-            "id": "5aef1ddf9fabf381",
+            "id": "2a8aceb91ff834ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "不同社会力量对国家出路的早期探索.md",
+                "file": "史纲.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "不同社会力量对国家出路的早期探索"
+              "title": "史纲"
             }
           }
         ]
@@ -172,41 +172,41 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5aef1ddf9fabf381",
+  "active": "2a8aceb91ff834ae",
   "lastOpenFiles": [
-    "中共成立和中国革命新局面.md",
-    "Pasted image 20250419171813.png",
-    "Pasted image 20250419163901.png",
     "为建立新中国而奋斗.md",
+    "Pasted image 20250420150613.png",
+    "Pasted image 20250420143303.png",
+    "Pasted image 20250420143228.png",
     "史纲.md",
     "中华民族的抗日战争.md",
-    "Pasted image 20250419214032.png",
-    "中国革命的新道路.md",
-    "Pasted image 20250419212325.png",
+    "Pasted image 20250420142824.png",
+    "五六七，资本主义的发展和趋势.md",
+    "马原.md",
     "政治一次总结.md",
-    "毛中特.md",
+    "第一章，世界的物质性及发展规律.md",
     "第二章，认识论.md",
-    "近代中国沦为半殖民半封建社会.md",
-    "Pasted image 20250419201329.png",
-    "Pasted image 20250419200802.png",
-    "Pasted image 20250419195611.png",
-    "Pasted image 20250419194113.png",
-    "辛亥革命与君主专制制度的终结.md",
-    "Pasted image 20250419171251.png",
-    "Pasted image 20250419171246.png",
+    "第三章，唯物史观.md",
+    "Pasted image 20250420141624.png",
+    "Pasted image 20250420140055.png",
+    "Pasted image 20250420135922.png",
+    "中国革命的新道路.md",
+    "中共成立和中国革命新局面.md",
     "不同社会力量对国家出路的早期探索.md",
+    "Pasted image 20250419171813.png",
+    "Pasted image 20250419163901.png",
+    "Pasted image 20250419214032.png",
+    "毛中特.md",
+    "近代中国沦为半殖民半封建社会.md",
+    "辛亥革命与君主专制制度的终结.md",
     "Excalidraw/Drawing 2025-04-14 18.23.34.excalidraw.md",
     "Excalidraw",
-    "马原.md",
-    "五六七，资本主义的发展和趋势.md",
-    "第三章，唯物史观.md",
     "习近平新时代中国特色社会主义思想.md",
     "第四章，政治经济学.md",
     "劳动价值理论.md",
     "剩余价值理论.md",
     "马原导论.md",
     "导论.md",
-    "第一章，世界的物质性及发展规律.md",
     "思想道德与法治.md",
     "创建链接.md",
     "2025-04-11.md",
