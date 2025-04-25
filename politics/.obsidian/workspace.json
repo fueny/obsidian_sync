@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "749e7e9f23e80585",
+        "id": "6732fcccbc46707d",
         "type": "tabs",
         "children": [
           {
-            "id": "2a8aceb91ff834ae",
+            "id": "45a856dab81b7935",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "毛中特.md",
+                "file": "第二章，新民主主义革命理论.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "毛中特"
+              "title": "第二章，新民主主义革命理论"
             }
           }
         ]
@@ -169,19 +169,27 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "2a8aceb91ff834ae",
+  "active": "45a856dab81b7935",
   "lastOpenFiles": [
-    "第六章，邓小平理论.md",
+    "Pasted image 20250425215107.png",
+    "Pasted image 20250425214832.png",
+    "Pasted image 20250425214823.png",
+    "Pasted image 20250425214018.png",
+    "Pasted image 20250425213722.png",
     "毛中特.md",
+    "政治一次总结.md",
+    "未命名看板.md",
+    "未命名看板 1.md",
+    "毛中特导论.md",
+    "第六章，邓小平理论.md",
     "第五章，中国特色社会主义理论体系的形成发展.md",
     "第四章，社会主义建设道路初步探索的理论成果.md",
     "第三章，社会主义改造理论.md",
-    "政治一次总结.md",
     "第三章，前置史纲八九章.md",
-    "毛中特导论.md",
     "第一章，毛泽东思想及其历史地位.md",
     "Pasted image 20250425201914.png",
     "Pasted image 20250425200809.png",
@@ -203,13 +211,6 @@
     "1.近代中国沦为半殖民半封建社会.md",
     "第一章，世界的物质性及发展规律.md",
     "5.中国革命的新道路.md",
-    "6.中华民族的抗日战争.md",
-    "4.中共成立和中国革命新局面.md",
-    "7.为建立新中国而奋斗.md",
-    "Pasted image 20250420150613.png",
-    "Pasted image 20250420143303.png",
-    "Pasted image 20250420143228.png",
-    "Pasted image 20250420142824.png",
     "Excalidraw",
     "未命名.canvas"
   ]
