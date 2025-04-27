@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "第六章，邓小平理论.md",
+                "file": "第六章，学习法治思想，提升法治素养.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "第六章，邓小平理论"
+              "title": "第六章，学习法治思想，提升法治素养"
             }
           }
         ]
@@ -73,6 +73,16 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "书签"
+            }
+          },
+          {
+            "id": "2a3f96dbf559868b",
+            "type": "leaf",
+            "state": {
+              "type": "recent-notes-view",
+              "state": {},
+              "icon": "clock-10",
+              "title": "最近笔记"
             }
           }
         ]
@@ -170,47 +180,48 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "obsidian-kanban:创建新看板": false
+      "obsidian-kanban:创建新看板": false,
+      "recent-notes:最近笔记": false
     }
   },
   "active": "45a856dab81b7935",
   "lastOpenFiles": [
-    "Pasted image 20250426180236.png",
-    "Pasted image 20250426180149.png",
-    "Pasted image 20250426180109.png",
-    "Pasted image 20250426180104.png",
+    "思想道德与法治.md",
+    "第六章，学习法治思想，提升法治素养.md",
+    "第五章，遵守道德规范，锤炼道德品格.md",
+    "Pasted image 20250427174732.png",
+    "Pasted image 20250427173323.png",
+    "Pasted image 20250427172038.png",
+    "Pasted image 20250427171308.png",
+    "第四章，明确价值要求，践行价值准则.md",
+    "Pasted image 20250427164714.png",
+    "Pasted image 20250427164705.png",
+    "第三章，继承优良传统，弘扬中国精神.md",
+    "Pasted image 20250427162621.png",
+    "Pasted image 20250427161241.png",
+    "Pasted image 20250427161221.png",
+    "第二章，追求远大理想，坚定崇高信念.md",
+    "Pasted image 20250427155920.png",
+    "第一章，领悟人生真谛，把握人生方向.md",
+    "绪论，担当复兴大任，成就时代新人.md",
+    "政治一次总结.md",
+    "第六章，邓小平理论.md",
     "毛中特.md",
     "第五章，中国特色社会主义理论体系的形成发展.md",
-    "Pasted image 20250426175317.png",
-    "Pasted image 20250426175305.png",
-    "Pasted image 20250426175217.png",
     "第四章，社会主义建设道路初步探索的理论成果.md",
-    "Pasted image 20250426174753.png",
-    "Pasted image 20250426174744.png",
     "第三章，社会主义改造理论.md",
-    "Pasted image 20250426171859.png",
-    "Pasted image 20250426171329.png",
     "第三章，前置史纲八九章.md",
-    "政治一次总结.md",
     "第二章，新民主主义革命理论.md",
     "未命名看板.md",
     "未命名看板 1.md",
     "毛中特导论.md",
-    "第六章，邓小平理论.md",
     "第一章，毛泽东思想及其历史地位.md",
-    "思想道德与法治.md",
     "史纲.md",
     "劳动价值理论.md",
     "剩余价值理论.md",
     "习近平新时代中国特色社会主义思想.md",
     "马原.md",
     "第五六七章，资本主义的发展和趋势.md",
-    "8910.融入毛中特.md",
-    "3.辛亥革命与君主专制制度的终结.md",
-    "2.不同社会力量对国家出路的早期探索.md",
-    "1.近代中国沦为半殖民半封建社会.md",
-    "第一章，世界的物质性及发展规律.md",
-    "5.中国革命的新道路.md",
     "Excalidraw",
     "未命名.canvas"
   ]
